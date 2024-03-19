@@ -1,0 +1,15 @@
+{
+  "name": "web_aut_reinis_melioranskis_final_task",
+  "version": "1.0.0",
+  "description": "WEB_AUT_REINIS_MELIORANSKIS_FINAL_TASK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.0"
+  }
+}
